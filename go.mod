@@ -1,3 +1,3 @@
 module github.com/jbdoumenjou/koyeb-go-hello-world
 
-go 1.21.0
+go 1.19
